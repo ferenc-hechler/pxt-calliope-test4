@@ -12,6 +12,7 @@ int fib(int n) {
 //% shim=custom::foo
 void foo(StringData* s, int f, int e) {
     uBit.serial.send("foo called\r\n");
+    uBit.serial.send(str->data);
 }
 
 
