@@ -1,4 +1,4 @@
-# Test4 functionality 1.2.5
+# Test4 functionality 1.2.6
 
 Minimal runnable extension with c++ code.
 
